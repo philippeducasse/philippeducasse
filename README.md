@@ -4,9 +4,8 @@ Hello, my name is Philippe Ducasse.
 
 - My primary skills include:
 
-  Languages and Tools:
+<img src= "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" >
 
-aws bash bootstrap css3 docker express figma firebase flask git graphql heroku html5 jasmine javascript jest kubernetes linux mongodb mysql nginx nodejs postgresql postman puppeteer python rails react redis redux ruby sass travisci typescript vagrant 
 
 - 🌱 I’m currently learning Python, MySQL & DJango
 
