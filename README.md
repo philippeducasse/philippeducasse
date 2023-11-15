@@ -1,4 +1,4 @@
-Hello, my name is Philippe Ducasse.
+<h1>Hello, my name is Philippe Ducasse </h1>.
 
 - Full-stack Javascript web developer
 
@@ -25,7 +25,7 @@ Hello, my name is Philippe Ducasse.
 <img src= "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" width="40" height="40">
 </div>
 
-- 📫 How to reach me info@philippeducasse.com
+- 📫 How to reach me: info@philippeducasse.com
 
 - Checkout my portfolio website at https://philippeducasse.github.io/portfolio/
 
