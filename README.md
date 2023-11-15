@@ -1,8 +1,8 @@
 <h1>Hello, my name is Philippe Ducasse </h1>.
 
-- Full-stack Javascript web developer
+<h3>Full-stack Javascript web developer</h3>
 
-- My primary skills include:
+<h3> My primary skills include </h3>
 <div>
 <img src= "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" width="40" height="40">
 <img src= "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" width="40" height="40">
@@ -18,16 +18,16 @@
 </div>
 
 
-- 🌱 I’m currently learning
+<h3>🌱 I’m currently learning </h3>
 <div>
   
 <img src= "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" width="40" height="40">
 <img src= "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" width="40" height="40">
 </div>
 
-- 📫 How to reach me: info@philippeducasse.com
+<h3>📫 How to reach me: info@philippeducasse.com </h3>
 
-- Checkout my portfolio website at https://philippeducasse.github.io/portfolio/
+<h3>Checkout my portfolio website at https://philippeducasse.github.io/portfolio/</h3>
 
 <!---
 philippeducasse/philippeducasse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
