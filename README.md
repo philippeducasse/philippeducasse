@@ -1,6 +1,6 @@
 <h1>Hello, my name is Philippe Ducasse </h1>.
 
-<h3>Full-stack Javascript web developer</h3>
+<h2>Full-stack Javascript web developer</h2>
 
 <h3> My primary skills include </h3>
 <div>
