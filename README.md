@@ -2,6 +2,8 @@
 
 <h2>Full-stack Javascript web developer</h2>
 
+<h4>Driven by a passion for simplicity and elegance, I code comprehensive web applications using primarily Javascript. My rigorous coding practices, attention to detail, and problem-solving skills provide a harmonious connection between the user, the front-end, database and server.</h4>
+
 <h3> My primary skills include </h3>
 <div>
 <img src= "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" width="40" height="40">
