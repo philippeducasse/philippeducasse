@@ -60,7 +60,7 @@
 
 <h3>Checkout my portfolio website at https://philippeducasse.github.io/portfolio/</h3>
 
-<h3>Or find me on <a src="[linkedin](https://www.linkedin.com/in/philippe-ducasse/)">LinkedIn</a></h3>
+<h3>Or find me on <a src="https://www.linkedin.com/in/philippe-ducasse/">LinkedIn</a></h3>
 
 <!---
 philippeducasse/philippeducasse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
