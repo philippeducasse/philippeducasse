@@ -1,4 +1,4 @@
-<h1>Hello, my name is Philippe Ducasse </h1>.
+<h1>Hello, my name is Philippe Ducasse </h1>
 
 <h2>Full-stack Javascript / Typescript web developer</h2>
 
