@@ -1,10 +1,7 @@
 <h1>Hello, my name is Philippe Ducasse </h1>.
 
-<h2>Full-stack Javascript web developer</h2>
+<h2>Full-stack Javascript / Typescript web developer</h2>
 
-<h4>Driven by a passion for simplicity and elegance, I code comprehensive web applications using primarily Typescript. My rigorous coding practices, attention to detail, and problem-solving skills provide a harmonious connection between the user, the front-end, database and server.</h4>
-
-<h3> My skills include </h3>
 <div>
   
 <h4> Languages</h4>
