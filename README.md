@@ -1,4 +1,4 @@
-<h2>Full-stack Javascript / Typescript web developer</h2>
+<h2>Full-stack Developer</h2>
 
 <div>
   
