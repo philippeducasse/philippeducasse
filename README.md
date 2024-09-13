@@ -46,9 +46,6 @@
 
 </div>
 
-  
-
-
 <h3>📫 How to reach me: info@philippeducasse.com </h3>
 
 <h3>Checkout my portfolio website at https://philippeducasse.github.io/portfolio/</h3>
