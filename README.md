@@ -1,7 +1,6 @@
 <h2>Full-stack Developer</h2>
 
 <div>
-  
 <h4> Languages</h4>
 <img src= "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" width="40" height="40">
 <img src= "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" width="40" height="40">
